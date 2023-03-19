@@ -22,7 +22,7 @@
 
 &kp GRAVE &bt BT_CLR        &bt BT_SEL 1      &bt BT_SEL 2      &bt BT_SEL 3 &bt BT_SEL 4                     &bt BT_SEL 0    &trans    &trans          &kp MINUS  &kp EQUAL &kp DEL
 &trans    &trans            &trans            &trans            &trans       &trans                           &trans          &trans    &kp PG_UP       &kp PSCRN  &kp LBRC  &kp RBRC
-&kp CAPS  &ext_power EP_ON  &ext_power EP_OFF &ext_power EP_TOG &trans       &kp C_BRI_DN                     &kp C_BRI_UP    &kp HOME  &kp PG_DN       &kp END    &kp SQT   &kp trans
+&kp CAPS  &ext_power EP_ON  &ext_power EP_OFF &ext_power EP_TOG &trans       &kp C_BRI_DN                     &kp C_BRI_UP    &kp HOME  &kp PG_DN       &kp END    &kp SQT   &trans
 &kp F1    &kp F2            &kp F3            &kp F4            &kp F5       &kp F6        &trans   &trans    &kp F7          &kp F8    &kp F9          &kp F10    &kp F11   &kp F12
                                               &trans            &trans       &trans        &trans   &trans    &trans    &trans    &trans
 			>;
